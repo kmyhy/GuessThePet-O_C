@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Client.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D00D0AB06E9519592AE031B3337B02A4151CD21D</string>
+				<key>dateExpires</key>
+				<string>2019/1/5</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D00D0AB06E9519592AE031B3337B02A4151CD21D</string>
+						<key>dateExpires</key>
+						<string>2019/1/5</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>HyphenateLite.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9UJ7X87G9E</string>
+						<key>name</key>
+						<string>China Children's HongKa Education &amp; Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D00D0AB06E9519592AE031B3337B02A4151CD21D</string>
+						<key>dateExpires</key>
+						<string>2019/1/5</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>PromiseKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>9UJ7X87G9E</string>
+						<key>name</key>
+						<string>China Children's HongKa Education &amp; Technology Co., Ltd.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>9UJ7X87G9E.cn.expopay.tongben</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>9UJ7X87G9E</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Client.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>56060557-3ac8-43cd-8a76-b3eafdf3f538</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: cn.expopay.tongben</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>9UJ7X87G9E</string>
+				<key>name</key>
+				<string>China Children's HongKa Education &amp; Technology Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
